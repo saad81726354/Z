@@ -1,2 +1,0 @@
-# Z
-Zombs Bot Source
